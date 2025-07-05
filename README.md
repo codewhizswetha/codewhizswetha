@@ -1,36 +1,33 @@
-## Hello I'm 👋 Swetha
+<table>
+<tr>
+<td>
 
-## 👩‍💻 About Me:
+## 👋 Hello, I'm Swetha
 
-- 👋 Hi there! I'm Swetha
-  
-- 🙋‍♂️ All about me is at www.Sweths.com
+### 👩‍💻 About Me:
 
-- 📖 I’m student of BE-CSE at VCTW Namakkal.
-  
-- 👨‍💻 I’m currently working as a Freelance Web Developer.
+- 🎓 I'm a student of **B.E - CSE** at **Vivekanandha College of Technology for Women**, Namakkal  
+- 💼 Working as a **Freelance Web Developer**
+- 💻 I build **dynamic, interactive web applications** using modern stacks
+- 🧠 Exploring **Machine Learning, LLMs**, and **Web 3.0**
+- 🛠️ Skilled in **React, Next.js, Node.js, MongoDB, Express**
+- 📚 Passionate about continuous learning and sharing new tech
+- 🌐 Portfolio: [www.Sweths.com](https://www.sweths.com)
+- 📫 Reach me at: `swetha@example.com`
+- 💡 Life Hack: *Learn new tech 🔥 and share what you’ve learned 🎉*
 
-- 💻 Creating dynamic, interactive websites for clients.
-  
-- 🧠 Exploring 
-  
-- 🔧 I work with **React, Next.js, Node.js
-  
-- 📚 Constantly learning and sharing new tech.
-  
-- 📫 Ask me anything: `swetha@example.com`
-
-- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
-
-![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a2b7a9a1d5a1cdcd3e9bc5c1f7.gif)
-<!-- Replace this image URL with your own or use a GIF like above -->
+</td>
+<td>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a2b7a9a1d5a1cdcd3e9bc5c1f7.gif" width="350" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools I Use:
 
 <p align="left">
- 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
@@ -44,4 +41,3 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
-
