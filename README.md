@@ -24,7 +24,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
-![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a2b7a9a1d5a1cdcd3e9bc5c1f7.gif)
+
 <!-- Replace this image URL with your own or use a GIF like above -->
 
 ---
