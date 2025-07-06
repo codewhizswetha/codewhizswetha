@@ -1,4 +1,8 @@
-## Hello I'm 👋 Swetha
+<div align="center">
+
+  ## 👋 Hello I'm Swetha
+
+</div>
 
 ## 👩‍💻 About Me:
 
