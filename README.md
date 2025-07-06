@@ -1,9 +1,7 @@
 ## Hello I'm 👋 Swetha
 
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/3ZQ3Z6f.png" alt="Swetha's Banner" />
-</p>
+
 
 ## Hello I'm 👋 Swetha
 
