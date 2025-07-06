@@ -1,11 +1,5 @@
 ## Hello I'm 👋 Swetha
 
-<!-- Banner Image -->
-
-
-## Hello I'm 👋 Swetha
-
-
 ## 👩‍💻 About Me:
 
 - 👋 Hi there! I'm Swetha
