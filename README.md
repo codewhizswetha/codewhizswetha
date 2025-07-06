@@ -15,14 +15,12 @@
 - 👨‍💻 I’m currently working as a Freelance Web Developer.
 
 - 💻 Creating dynamic, interactive websites for clients.
-  
-- 🧠 Exploring 
-  
+    
 - 🔧 I work with **React, Next.js, Node.js
   
 - 📚 Constantly learning and sharing new tech.
   
-- 📫 Ask me anything: `swetha@example.com`
+- ✉️ Reach out anytime: swethasuvi341@gmail.com
 
 - 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
